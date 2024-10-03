@@ -1,0 +1,9 @@
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\Bin\TestSVNSetup.dll
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\Bin\TestSVNSetup.pdb
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.csproj.AssemblyReference.cache
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.GeneratedMSBuildEditorConfig.editorconfig
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.AssemblyInfoInputs.cache
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.AssemblyInfo.cs
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.csproj.CoreCompileInputs.cache
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.dll
+D:\Creatio\Terrasoft.WebApp\Terrasoft.Configuration\Pkg\TestSVNSetup\Files\obj\Release\TestSVNSetup.pdb

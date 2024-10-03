@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\TestSVNSetup\\Files\\TestSVNSetup.csproj": {}
+  },
+  "projects": {
+    "D:\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\TestSVNSetup\\Files\\TestSVNSetup.csproj": {
+      "version": "8.1.3.6801",
+      "restore": {
+        "projectUniqueName": "D:\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\TestSVNSetup\\Files\\TestSVNSetup.csproj",
+        "projectName": "TestSVNSetup",
+        "projectPath": "D:\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\TestSVNSetup\\Files\\TestSVNSetup.csproj",
+        "packagesPath": "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_Creatio\\Default\\dotnet\\.nuget\\packages\\",
+        "outputPath": "D:\\Creatio\\Terrasoft.WebApp\\Terrasoft.Configuration\\Pkg\\TestSVNSetup\\Files\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\WINDOWS\\TEMP\\2\\IIS APPPOOL_Creatio\\Default\\dotnet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.425\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

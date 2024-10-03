@@ -1,0 +1,57 @@
+﻿namespace Terrasoft.Configuration
+{
+
+	using System;
+	using System.Collections.Generic;
+	using System.Collections.ObjectModel;
+	using System.Globalization;
+	using Terrasoft.Common;
+	using Terrasoft.Core;
+	using Terrasoft.Core.Configuration;
+
+	#region Class: DeleteUseNewShellForExternalUsersSysSettingISESchema
+
+	/// <exclude/>
+	public class DeleteUseNewShellForExternalUsersSysSettingISESchema : Terrasoft.Core.SourceCodeSchema
+	{
+
+		#region Constructors: Public
+
+		public DeleteUseNewShellForExternalUsersSysSettingISESchema(SourceCodeSchemaManager sourceCodeSchemaManager)
+			: base(sourceCodeSchemaManager) {
+		}
+
+		public DeleteUseNewShellForExternalUsersSysSettingISESchema(DeleteUseNewShellForExternalUsersSysSettingISESchema source)
+			: base( source) {
+		}
+
+		#endregion
+
+		#region Methods: Protected
+
+		protected override void InitializeProperties() {
+			base.InitializeProperties();
+			UId = new Guid("70971a22-b23e-45c6-acf1-7413c970704d");
+			Name = "DeleteUseNewShellForExternalUsersSysSettingISE";
+			ParentSchemaUId = new Guid("50e3acc0-26fc-4237-a095-849a1d534bd3");
+			CreatedInPackageId = new Guid("d2c3f70d-d3a5-4d15-9bc6-62f67312edb1");
+			ZipBody = new byte[] { 31,139,8,0,0,0,0,0,4,0,157,84,91,79,219,48,20,126,14,18,255,193,202,83,34,145,168,180,180,93,7,84,106,46,69,121,97,211,50,182,199,201,36,7,136,228,216,157,237,112,17,218,127,223,137,211,52,109,128,50,38,181,169,108,31,127,183,115,82,78,75,80,43,154,1,249,14,82,82,37,110,180,31,10,126,83,220,86,146,234,66,240,195,131,231,195,3,171,82,5,191,37,233,147,210,80,158,110,214,219,87,202,82,240,215,79,36,188,181,239,71,1,30,225,225,170,186,102,69,70,50,70,149,34,17,48,208,112,165,224,18,30,210,59,96,108,41,100,252,168,65,114,202,112,87,42,148,145,130,214,136,151,164,49,249,76,146,132,43,77,25,75,51,89,172,116,252,8,89,165,133,68,216,103,3,110,173,100,113,79,53,16,9,52,23,156,61,145,139,170,200,201,175,170,99,72,114,114,110,118,253,175,84,42,112,236,56,26,4,179,48,26,120,193,34,90,120,39,209,108,233,5,147,97,232,197,131,201,96,50,30,14,103,159,198,99,219,61,221,131,142,122,118,68,247,8,166,195,65,48,157,30,35,226,116,49,245,78,150,163,99,111,22,46,3,111,60,12,163,225,113,56,154,142,102,75,67,96,40,154,120,238,5,2,55,246,192,169,65,177,81,28,178,186,75,164,218,89,186,164,110,154,101,221,83,73,148,10,69,14,72,111,239,137,212,62,237,234,49,254,76,99,61,135,7,146,154,133,211,67,247,151,82,148,142,221,245,65,217,46,54,148,85,37,119,236,36,199,197,207,59,144,232,178,102,182,93,3,109,249,137,138,127,87,148,57,77,97,29,4,206,30,106,112,26,133,174,75,168,90,19,110,169,81,166,55,141,40,127,109,62,205,40,163,242,172,206,115,238,180,33,89,197,13,113,234,114,36,186,20,58,46,87,250,201,113,219,36,182,172,125,97,249,15,202,42,248,160,69,115,167,53,99,109,236,6,66,48,160,188,119,186,246,191,117,189,142,101,125,186,55,138,36,127,25,132,181,43,188,141,225,27,78,28,222,113,164,249,117,201,249,188,53,107,220,138,206,103,83,225,95,128,110,24,205,254,217,53,74,159,247,29,172,25,173,58,154,171,85,142,147,221,139,230,136,188,157,138,229,227,126,15,241,136,188,112,217,42,115,187,123,175,7,246,118,80,187,111,111,7,100,249,11,158,27,156,69,94,22,252,138,23,250,29,160,254,139,234,186,109,190,78,27,198,159,205,140,153,88,154,63,168,127,158,152,253,195,240,222,44,236,136,249,184,134,142,254,127,57,107,255,245,179,126,224,23,63,127,1,172,30,90,17,52,6,0,0 };
+		}
+
+		#endregion
+
+		#region Methods: Public
+
+		public override void GetParentRealUIds(Collection<Guid> realUIds) {
+			base.GetParentRealUIds(realUIds);
+			realUIds.Add(new Guid("70971a22-b23e-45c6-acf1-7413c970704d"));
+		}
+
+		#endregion
+
+	}
+
+	#endregion
+
+}
+
